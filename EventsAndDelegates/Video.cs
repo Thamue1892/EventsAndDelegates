@@ -1,6 +1,6 @@
 ﻿namespace EventsAndDelegates
 {
-    class Video
+    public class Video
     {
         public string Title { get; set; }
     }
